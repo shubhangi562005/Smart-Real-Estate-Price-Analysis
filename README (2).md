@@ -1,6 +1,5 @@
 # 🏠 Smart Real-Estate Price Analytics
 
-**End-to-End Data Analytics Project using Python**
 
 # 📌 Project Overview
 
